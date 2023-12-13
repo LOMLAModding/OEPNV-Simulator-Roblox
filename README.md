@@ -1,1 +1,2 @@
 # OEPNV-Simulator-Roblox
+ÖPNV-Simulator ist eine Bus & Straßenbahn Fahrsimulation die seit dem 28.02.2022 entwickelt wird. Dieses Spiel ist noch in der Early Access. Unser Ziel mit diesem Spiel ist es eine Realistische Simulation zu erstellen mit dem Größten Fuhrpark und dem Bekanntesten Städten. Wir fügen Ausschnitte von Städten zu einer Stadt zusammen. Mit dabei ist unter anderem Berlin, Potsdam, Leipzig, Erfurt uvm. Bei Fertigstellung des Spiels sind 150+ Straßenbahnen und 90+ Busse im Game enthalten.
